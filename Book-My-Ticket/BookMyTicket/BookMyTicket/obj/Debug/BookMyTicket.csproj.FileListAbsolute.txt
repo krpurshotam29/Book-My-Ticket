@@ -1,0 +1,7 @@
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\obj\Debug\BookMyTicket.csprojAssemblyReference.cache
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\obj\Debug\BookMyTicket.csproj.CoreCompileInputs.cache
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\bin\Debug\BookMyTicket.exe.config
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\bin\Debug\BookMyTicket.exe
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\bin\Debug\BookMyTicket.pdb
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\obj\Debug\BookMyTicket.exe
+C:\Users\purushotam.s\Desktop\learning\C#\Book-My-Ticket\BookMyTicket\BookMyTicket\obj\Debug\BookMyTicket.pdb
